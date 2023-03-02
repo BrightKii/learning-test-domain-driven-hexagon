@@ -1,2 +1,3 @@
 This sentence is for the 1 commit
 This sentence is for the 2 commit
+This sentence is for the 3 commit
